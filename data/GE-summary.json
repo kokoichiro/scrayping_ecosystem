@@ -1,0 +1,20 @@
+{
+    "": "17.21", 
+    "sector": "Industrials", 
+    "Date_Time": "2018-07-19 00:07:20.910333", 
+    "Operating_Margin": -0.01637, 
+    "url": "http://finance.yahoo.com/quote/GE?p=GE", 
+    "ROA": -0.0035499998, 
+    "industry": "Diversified Industrials", 
+    "target_est": 17.21, 
+    "state": "MA", 
+    "EPS": -0.843, 
+    "beta": 0.713692, 
+    "Total_Debt": 125839998976, 
+    "Total_Cash": 12679000064, 
+    "Earnings_Date": "2018-07-20", 
+    "Current_Price": 13.75, 
+    "Free_Cash_Flow": 21193875456, 
+    "ticker": "GE", 
+    "Gross_Profits": 14874000000
+}

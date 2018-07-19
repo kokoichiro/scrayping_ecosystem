@@ -1,0 +1,28 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+google-api-python-client = "*"
+pandas = "*"
+scikit-learn = "*"
+lxml = "*"
+requests = "*"
+datetime = "*"
+pandas-gbq = "*"
+"glob2" = "*"
+simplejson = "*"
+apache-airflow = "*"
+
+
+[requires]
+
+python_version = "2.7"

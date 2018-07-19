@@ -1,0 +1,20 @@
+{
+    "": "146.15", 
+    "sector": "Energy", 
+    "Date_Time": "2018-07-19 00:01:38.639442", 
+    "Operating_Margin": 0.04232, 
+    "url": "http://finance.yahoo.com/quote/CVX?p=CVX", 
+    "ROA": 0.013710001, 
+    "industry": "Oil & Gas Integrated", 
+    "target_est": 146.15, 
+    "state": "CA", 
+    "EPS": 5.345, 
+    "beta": 1.134724, 
+    "Total_Debt": 39744999424, 
+    "Total_Cash": 6504000000, 
+    "Earnings_Date": "2018-07-27", 
+    "Current_Price": 121.53, 
+    "Free_Cash_Flow": 8270374912, 
+    "ticker": "CVX", 
+    "Gross_Profits": 39472000000
+}

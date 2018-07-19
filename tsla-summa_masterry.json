@@ -1,0 +1,1078 @@
+{
+    "quoteSummary": {
+        "result": [
+            {
+                "summaryProfile": {
+                    "website": "http://www.tesla.com", 
+                    "city": "Palo Alto", 
+                    "zip": "94304", 
+                    "address1": "3500 Deer Creek Road", 
+                    "industry": "Auto Manufacturers", 
+                    "companyOfficers": [], 
+                    "maxAge": 86400, 
+                    "phone": "650-681-5000", 
+                    "state": "CA", 
+                    "sector": "Consumer Cyclical", 
+                    "fullTimeEmployees": 37543, 
+                    "country": "United States", 
+                    "longBusinessSummary": "Tesla, Inc. designs, develops, manufactures, and sells electric vehicles, and energy generation and storage systems in the United States, China, Norway, and internationally. The company operates in two segments, Automotive, and Energy Generation and Storage. The Automotive segment offers sedans and sport utility vehicles. It also provides electric vehicle powertrain components and systems to other manufacturers; and services for electric vehicles through its company-owned service centers, Service Plus locations, and Tesla mobile technicians. This segment sells its products through a network of company-owned stores and galleries. The Energy Generation and Storage segment offers energy storage products, such as rechargeable lithium-ion battery systems for use in homes, commercial facilities, and utility grids; designs, manufactures, installs, maintains, leases, and sells solar energy systems to residential and commercial customers; and sell renewable energy to residential and commercial customers. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was founded in 2003 and is headquartered in Palo Alto, California."
+                }, 
+                "financialData": {
+                    "returnOnEquity": {
+                        "raw": -0.44237, 
+                        "fmt": "-44.24%"
+                    }, 
+                    "totalRevenue": {
+                        "raw": 12471232512, 
+                        "fmt": "12.47B", 
+                        "longFmt": "12,471,232,512"
+                    }, 
+                    "maxAge": 86400, 
+                    "targetLowPrice": {
+                        "raw": 180.0, 
+                        "fmt": "180.00"
+                    }, 
+                    "currentPrice": {
+                        "raw": 275.7909, 
+                        "fmt": "275.79"
+                    }, 
+                    "ebitda": {
+                        "raw": -270076992, 
+                        "fmt": "-270.08M", 
+                        "longFmt": "-270,076,992"
+                    }, 
+                    "financialCurrency": "USD", 
+                    "currentRatio": {
+                        "raw": 0.738, 
+                        "fmt": "0.74"
+                    }, 
+                    "numberOfAnalystOpinions": {
+                        "raw": 24, 
+                        "fmt": "24", 
+                        "longFmt": "24"
+                    }, 
+                    "revenuePerShare": {
+                        "raw": 74.45, 
+                        "fmt": "74.45"
+                    }, 
+                    "freeCashflow": {
+                        "raw": -2663399168, 
+                        "fmt": "-2.66B", 
+                        "longFmt": "-2,663,399,168"
+                    }, 
+                    "totalCashPerShare": {
+                        "raw": 15.699, 
+                        "fmt": "15.7"
+                    }, 
+                    "operatingMargins": {
+                        "raw": -0.15602, 
+                        "fmt": "-15.60%"
+                    }, 
+                    "returnOnAssets": {
+                        "raw": -0.046479996, 
+                        "fmt": "-4.65%"
+                    }, 
+                    "ebitdaMargins": {
+                        "raw": -0.021659998, 
+                        "fmt": "-2.17%"
+                    }, 
+                    "targetMedianPrice": {
+                        "raw": 326.0, 
+                        "fmt": "326.00"
+                    }, 
+                    "totalDebt": {
+                        "raw": 12570342400, 
+                        "fmt": "12.57B", 
+                        "longFmt": "12,570,342,400"
+                    }, 
+                    "targetHighPrice": {
+                        "raw": 470.0, 
+                        "fmt": "470.00"
+                    }, 
+                    "totalCash": {
+                        "raw": 2665672960, 
+                        "fmt": "2.67B", 
+                        "longFmt": "2,665,672,960"
+                    }, 
+                    "recommendationKey": "hold", 
+                    "grossMargins": {
+                        "raw": 0.16126, 
+                        "fmt": "16.13%"
+                    }, 
+                    "grossProfits": {
+                        "raw": 2222487000, 
+                        "fmt": "2.22B", 
+                        "longFmt": "2,222,487,000"
+                    }, 
+                    "targetMeanPrice": {
+                        "raw": 316.92, 
+                        "fmt": "316.92"
+                    }, 
+                    "debtToEquity": {
+                        "raw": 219.746, 
+                        "fmt": "219.75"
+                    }, 
+                    "profitMargins": {
+                        "raw": -0.18767999, 
+                        "fmt": "-18.77%"
+                    }, 
+                    "operatingCashflow": {
+                        "raw": -389219008, 
+                        "fmt": "-389.22M", 
+                        "longFmt": "-389,219,008"
+                    }, 
+                    "recommendationMean": {
+                        "raw": 2.9, 
+                        "fmt": "2.90"
+                    }, 
+                    "earningsGrowth": {}, 
+                    "revenueGrowth": {
+                        "raw": 0.264, 
+                        "fmt": "26.40%"
+                    }, 
+                    "quickRatio": {
+                        "raw": 0.384, 
+                        "fmt": "0.38"
+                    }
+                }, 
+                "defaultKeyStatistics": {
+                    "priceToSalesTrailing12Months": {}, 
+                    "shortRatio": {
+                        "raw": 4.7, 
+                        "fmt": "4.7"
+                    }, 
+                    "52WeekChange": {
+                        "raw": -0.10041261, 
+                        "fmt": "-10.04%"
+                    }, 
+                    "bookValue": {
+                        "raw": 25.103, 
+                        "fmt": "25.10"
+                    }, 
+                    "priceHint": {
+                        "raw": 4, 
+                        "fmt": "4", 
+                        "longFmt": "4"
+                    }, 
+                    "revenueQuarterlyGrowth": {}, 
+                    "forwardPE": {
+                        "raw": 147.48177, 
+                        "fmt": "147.48"
+                    }, 
+                    "maxAge": 1, 
+                    "profitMargins": {
+                        "raw": -0.18767999, 
+                        "fmt": "-18.77%"
+                    }, 
+                    "totalAssets": {}, 
+                    "shortPercentOfFloat": {
+                        "raw": 0.287357, 
+                        "fmt": "28.74%"
+                    }, 
+                    "lastDividendValue": {}, 
+                    "lastSplitFactor": null, 
+                    "category": null, 
+                    "heldPercentInsiders": {
+                        "raw": 0.25369, 
+                        "fmt": "25.37%"
+                    }, 
+                    "trailingEps": {
+                        "raw": -11.833, 
+                        "fmt": "-11.8330"
+                    }, 
+                    "fundFamily": null, 
+                    "morningStarOverallRating": {}, 
+                    "sharesShortPriorMonth": {
+                        "raw": 28093200, 
+                        "fmt": "28.09M", 
+                        "longFmt": "28,093,200"
+                    }, 
+                    "netIncomeToCommon": {
+                        "raw": -2340674048, 
+                        "fmt": "-2.34B", 
+                        "longFmt": "-2,340,674,048"
+                    }, 
+                    "floatShares": {
+                        "raw": 126790038, 
+                        "fmt": "126.79M", 
+                        "longFmt": "126,790,038"
+                    }, 
+                    "fundInceptionDate": {}, 
+                    "beta3Year": {}, 
+                    "enterpriseToRevenue": {
+                        "raw": 4.563, 
+                        "fmt": "4.56"
+                    }, 
+                    "enterpriseToEbitda": {
+                        "raw": -210.706, 
+                        "fmt": "-210.71"
+                    }, 
+                    "priceToBook": {
+                        "raw": 10.986372, 
+                        "fmt": "10.99"
+                    }, 
+                    "threeYearAverageReturn": {}, 
+                    "morningStarRiskRating": {}, 
+                    "legalType": null, 
+                    "enterpriseValue": {
+                        "raw": 56906956800, 
+                        "fmt": "56.91B", 
+                        "longFmt": "56,906,956,800"
+                    }, 
+                    "pegRatio": {
+                        "raw": -1.21, 
+                        "fmt": "-1.21"
+                    }, 
+                    "lastCapGain": {}, 
+                    "mostRecentQuarter": {
+                        "raw": 1522454400, 
+                        "fmt": "2018-03-31"
+                    }, 
+                    "beta": {
+                        "raw": 0.942264, 
+                        "fmt": "0.94"
+                    }, 
+                    "sharesOutstanding": {
+                        "raw": 169794000, 
+                        "fmt": "169.79M", 
+                        "longFmt": "169,794,000"
+                    }, 
+                    "lastSplitDate": {}, 
+                    "ytdReturn": {}, 
+                    "annualHoldingsTurnover": {}, 
+                    "fiveYearAverageReturn": {}, 
+                    "nextFiscalYearEnd": {
+                        "raw": 1577750400, 
+                        "fmt": "2019-12-31"
+                    }, 
+                    "annualReportExpenseRatio": {}, 
+                    "heldPercentInstitutions": {
+                        "raw": 0.63964003, 
+                        "fmt": "63.96%"
+                    }, 
+                    "yield": {}, 
+                    "forwardEps": {
+                        "raw": 1.89, 
+                        "fmt": "1.89"
+                    }, 
+                    "lastFiscalYearEnd": {
+                        "raw": 1514678400, 
+                        "fmt": "2017-12-31"
+                    }, 
+                    "earningsQuarterlyGrowth": {}, 
+                    "SandP52WeekChange": {
+                        "raw": 0.13679147, 
+                        "fmt": "13.68%"
+                    }, 
+                    "sharesShort": {
+                        "raw": 30128100, 
+                        "fmt": "30.13M", 
+                        "longFmt": "30,128,100"
+                    }
+                }, 
+                "earnings": {
+                    "financialsChart": {
+                        "yearly": [
+                            {
+                                "date": 2015, 
+                                "earnings": {
+                                    "raw": -888663000, 
+                                    "fmt": "-888.66M", 
+                                    "longFmt": "-888,663,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 4046025000, 
+                                    "fmt": "4.05B", 
+                                    "longFmt": "4,046,025,000"
+                                }
+                            }, 
+                            {
+                                "date": 2016, 
+                                "earnings": {
+                                    "raw": -674914000, 
+                                    "fmt": "-674.91M", 
+                                    "longFmt": "-674,914,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 7000132000, 
+                                    "fmt": "7B", 
+                                    "longFmt": "7,000,132,000"
+                                }
+                            }, 
+                            {
+                                "date": 2017, 
+                                "earnings": {
+                                    "raw": -1961400000, 
+                                    "fmt": "-1.96B", 
+                                    "longFmt": "-1,961,400,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 11758751000, 
+                                    "fmt": "11.76B", 
+                                    "longFmt": "11,758,751,000"
+                                }
+                            }
+                        ], 
+                        "quarterly": [
+                            {
+                                "date": "2Q2017", 
+                                "earnings": {
+                                    "raw": -336397000, 
+                                    "fmt": "-336.4M", 
+                                    "longFmt": "-336,397,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 2789557000, 
+                                    "fmt": "2.79B", 
+                                    "longFmt": "2,789,557,000"
+                                }
+                            }, 
+                            {
+                                "date": "3Q2017", 
+                                "earnings": {
+                                    "raw": -619376000, 
+                                    "fmt": "-619.38M", 
+                                    "longFmt": "-619,376,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 2984675000, 
+                                    "fmt": "2.98B", 
+                                    "longFmt": "2,984,675,000"
+                                }
+                            }, 
+                            {
+                                "date": "4Q2017", 
+                                "earnings": {
+                                    "raw": -675350000, 
+                                    "fmt": "-675.35M", 
+                                    "longFmt": "-675,350,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 3288249000, 
+                                    "fmt": "3.29B", 
+                                    "longFmt": "3,288,249,000"
+                                }
+                            }, 
+                            {
+                                "date": "1Q2018", 
+                                "earnings": {
+                                    "raw": -709551000, 
+                                    "fmt": "-709.55M", 
+                                    "longFmt": "-709,551,000"
+                                }, 
+                                "revenue": {
+                                    "raw": 3408751000, 
+                                    "fmt": "3.41B", 
+                                    "longFmt": "3,408,751,000"
+                                }
+                            }
+                        ]
+                    }, 
+                    "maxAge": 86400, 
+                    "earningsChart": {
+                        "quarterly": [
+                            {
+                                "date": "1Q2017", 
+                                "estimate": {
+                                    "raw": -0.81, 
+                                    "fmt": "-0.81"
+                                }, 
+                                "actual": {
+                                    "raw": -1.33, 
+                                    "fmt": "-1.33"
+                                }
+                            }, 
+                            {
+                                "date": "2Q2017", 
+                                "estimate": {
+                                    "raw": -1.82, 
+                                    "fmt": "-1.82"
+                                }, 
+                                "actual": {
+                                    "raw": -1.33, 
+                                    "fmt": "-1.33"
+                                }
+                            }, 
+                            {
+                                "date": "3Q2017", 
+                                "estimate": {
+                                    "raw": -2.29, 
+                                    "fmt": "-2.29"
+                                }, 
+                                "actual": {
+                                    "raw": -2.92, 
+                                    "fmt": "-2.92"
+                                }
+                            }, 
+                            {
+                                "date": "4Q2017", 
+                                "estimate": {
+                                    "raw": -3.12, 
+                                    "fmt": "-3.12"
+                                }, 
+                                "actual": {
+                                    "raw": -3.04, 
+                                    "fmt": "-3.04"
+                                }
+                            }
+                        ], 
+                        "currentQuarterEstimate": {
+                            "raw": -3.48, 
+                            "fmt": "-3.48"
+                        }, 
+                        "currentQuarterEstimateYear": 2018, 
+                        "currentQuarterEstimateDate": "1Q"
+                    }, 
+                    "financialCurrency": "USD"
+                }, 
+                "recommendationTrend": {
+                    "trend": [
+                        {
+                            "sell": 6, 
+                            "buy": 4, 
+                            "period": "0m", 
+                            "strongBuy": 4, 
+                            "strongSell": 1, 
+                            "hold": 8
+                        }, 
+                        {
+                            "sell": 6, 
+                            "buy": 5, 
+                            "period": "-1m", 
+                            "strongBuy": 4, 
+                            "strongSell": 1, 
+                            "hold": 8
+                        }, 
+                        {
+                            "sell": 6, 
+                            "buy": 4, 
+                            "period": "-2m", 
+                            "strongBuy": 4, 
+                            "strongSell": 0, 
+                            "hold": 8
+                        }, 
+                        {
+                            "sell": 6, 
+                            "buy": 4, 
+                            "period": "-3m", 
+                            "strongBuy": 4, 
+                            "strongSell": 0, 
+                            "hold": 8
+                        }
+                    ], 
+                    "maxAge": 86400
+                }, 
+                "upgradeDowngradeHistory": {
+                    "maxAge": 86400, 
+                    "history": [
+                        {
+                            "firm": "Vertical Group", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1523318400, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Jefferies", 
+                            "action": "up", 
+                            "fromGrade": "Underperform", 
+                            "epochGradeDate": 1522627200, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "up", 
+                            "fromGrade": "Sell", 
+                            "epochGradeDate": 1522022400, 
+                            "toGrade": "Underperform"
+                        }, 
+                        {
+                            "firm": "Citic Securities", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1518480000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Evercore ISI Group", 
+                            "action": "down", 
+                            "fromGrade": "Outperform", 
+                            "epochGradeDate": 1509062400, 
+                            "toGrade": "In-Line"
+                        }, 
+                        {
+                            "firm": "Nomura", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1507075200, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "down", 
+                            "fromGrade": "Hold", 
+                            "epochGradeDate": 1507075200, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Jefferies", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1505779200, 
+                            "toGrade": "Underperform"
+                        }, 
+                        {
+                            "firm": "Argus", 
+                            "action": "up", 
+                            "fromGrade": "Hold", 
+                            "epochGradeDate": 1502150400, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Citigroup", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1500508800, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Independent Research", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1496102400, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Morgan Stanley", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1494806400, 
+                            "toGrade": "Equal-Weight"
+                        }, 
+                        {
+                            "firm": "PiperJaffray", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1491782400, 
+                            "toGrade": "Overweight"
+                        }, 
+                        {
+                            "firm": "Bernstein", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1488931200, 
+                            "toGrade": "Market Perform"
+                        }, 
+                        {
+                            "firm": "Goldman Sachs", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1487894400, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Morgan Stanley", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1484784000, 
+                            "toGrade": "Overweight"
+                        }, 
+                        {
+                            "firm": "Guggenheim", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1483488000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Goldman Sachs", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1475712000, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Cowen & Co.", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1473292800, 
+                            "toGrade": "Underperform"
+                        }, 
+                        {
+                            "firm": "Argus Research", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1467072000, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1466726400, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Morgan Stanley", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1466640000, 
+                            "toGrade": "Equal-Weight"
+                        }, 
+                        {
+                            "firm": "Oppenheimer", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1466553600, 
+                            "toGrade": "Perform"
+                        }, 
+                        {
+                            "firm": "PiperJaffray", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1465430400, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Sterne Agee CRT", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1464825600, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Goldman Sachs", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1463529600, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1459987200, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Argus Research", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1458518400, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Baird", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1457913600, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "JMP Securities", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1450051200, 
+                            "toGrade": "Market Perform"
+                        }, 
+                        {
+                            "firm": "Barclays", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1444348800, 
+                            "toGrade": "Underweight"
+                        }, 
+                        {
+                            "firm": "Baird", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1444176000, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "RBC Capital", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1444089600, 
+                            "toGrade": "Sector Perform"
+                        }, 
+                        {
+                            "firm": "Oppenheimer", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1441670400, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "UBS", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1437436800, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Pacific Crest", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1436313600, 
+                            "toGrade": ""
+                        }, 
+                        {
+                            "firm": "Deutsche Bank", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1436227200, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Jefferies", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1430784000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Argus Research", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1427414400, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "CLSA", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1427241600, 
+                            "toGrade": "Underperform"
+                        }, 
+                        {
+                            "firm": "JP Morgan", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1423699200, 
+                            "toGrade": "Underweight"
+                        }, 
+                        {
+                            "firm": "Ascendiant Capital", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1414627200, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "MLV & Co.", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1413504000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Tigress Financial", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1412726400, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "ISI Group", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1410825600, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "FBN Securities", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1410134400, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Stifel Nicolaus", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1409616000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "CLSA", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1408492800, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Credit Suisse", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1407888000, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Deutsche Bank", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1407715200, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Pacific Crest", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1407283200, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Pacific Crest", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1407196800, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "S&P Capital IQ", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1399420800, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "UBS", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1395792000, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Deutsche Bank", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1392854400, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "S&P Capital IQ", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1392854400, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "FBR Capital", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1392768000, 
+                            "toGrade": "Market Perform"
+                        }, 
+                        {
+                            "firm": "Baird", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1389657600, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "S&P Capital IQ", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1385510400, 
+                            "toGrade": ""
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1383782400, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Wedbush", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1381795200, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Standpoint Research", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1380844800, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Baird", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1380672000, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Stifel Nicolaus", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1377129600, 
+                            "toGrade": "Hold"
+                        }, 
+                        {
+                            "firm": "Lazard", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1376265600, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Barclays", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1375920000, 
+                            "toGrade": "Equal-Weight"
+                        }, 
+                        {
+                            "firm": "Deutsche Bank", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1374796800, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Wedbush", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1372377600, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Wedbush", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1372291200, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Global Equities Research", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1371427200, 
+                            "toGrade": "Overweight"
+                        }, 
+                        {
+                            "firm": "Goldman Sachs", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1368057600, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Northland Securities", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1362096000, 
+                            "toGrade": "Outperform"
+                        }, 
+                        {
+                            "firm": "Bank of America", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1361404800, 
+                            "toGrade": "Underperform"
+                        }, 
+                        {
+                            "firm": "JP Morgan", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1355788800, 
+                            "toGrade": "Neutral"
+                        }, 
+                        {
+                            "firm": "Morgan Stanley", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1347840000, 
+                            "toGrade": "Overweight"
+                        }, 
+                        {
+                            "firm": "Wunderlich", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1342569600, 
+                            "toGrade": "Sell"
+                        }, 
+                        {
+                            "firm": "Maxim Group", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1337644800, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Wunderlich", 
+                            "action": "up", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1332720000, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Oxen Group", 
+                            "action": "init", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1329436800, 
+                            "toGrade": "Buy"
+                        }, 
+                        {
+                            "firm": "Wunderlich", 
+                            "action": "down", 
+                            "fromGrade": "", 
+                            "epochGradeDate": 1329350400, 
+                            "toGrade": "Hold"
+                        }
+                    ]
+                }, 
+                "calendarEvents": {
+                    "dividendDate": {}, 
+                    "exDividendDate": {}, 
+                    "maxAge": 1, 
+                    "earnings": {
+                        "earningsAverage": {
+                            "raw": -3.48, 
+                            "fmt": "-3.48"
+                        }, 
+                        "revenueAverage": {
+                            "raw": 3219740000, 
+                            "fmt": "3.22B", 
+                            "longFmt": "3,219,740,000"
+                        }, 
+                        "earningsLow": {
+                            "raw": -4.92, 
+                            "fmt": "-4.92"
+                        }, 
+                        "earningsHigh": {
+                            "raw": -1.75, 
+                            "fmt": "-1.75"
+                        }, 
+                        "revenueLow": {
+                            "raw": 2100000000, 
+                            "fmt": "2.1B", 
+                            "longFmt": "2,100,000,000"
+                        }, 
+                        "earningsDate": [
+                            {
+                                "raw": 1532995200, 
+                                "fmt": "2018-07-31"
+                            }, 
+                            {
+                                "raw": 1533513600, 
+                                "fmt": "2018-08-06"
+                            }
+                        ], 
+                        "revenueHigh": {
+                            "raw": 3827600000, 
+                            "fmt": "3.83B", 
+                            "longFmt": "3,827,600,000"
+                        }
+                    }
+                }
+            }
+        ], 
+        "error": null
+    }
+}
