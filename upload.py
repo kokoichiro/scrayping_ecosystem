@@ -23,6 +23,11 @@ dataset_id = 'cory_airflow_test'
 bq_tbl_name = 'share_price'
 table_destination = dataset_id + '.' + bq_tbl_name
 
+project_id2 = 'plenary-genre-642'
+dataset_id2 = 'airflow_share_price'
+bq_tbl_name2 = 'share_price'
+table_destination2 = dataset_id2 + '.' + bq_tbl_name2
+
 #gcs only requires bucket name and object name.(they don't need project and dataset)
 gcs_bucket_name = 'cory-test-airflow'
 
@@ -46,3 +51,4 @@ df_upload['key_id2'] = df_upload['date'] + df_upload['key_id']
 #Maybe the link below is helpful to push large data into BigQuery.
 #https://stackoverflow.com/questions/34201923/python-bigquery-allowlargeresults-with-pandas-io-gbq
 gbq.to_gbq(df_upload, table_destination, project_id, if_exists='append',chunksize=10000)
+gbq.to_gbq(df_upload, table_destination2, project_id2, if_exists='append',chunksize=10000)

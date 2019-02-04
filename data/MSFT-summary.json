@@ -1,0 +1,20 @@
+{
+    "": "125.39", 
+    "sector": "Technology", 
+    "Date_Time": "2019-01-18 13:38:11.874917", 
+    "Operating_Margin": 0.32466, 
+    "url": "http://finance.yahoo.com/quote/MSFT?p=MSFT", 
+    "ROA": 0.09203, 
+    "industry": "Software - Infrastructure", 
+    "target_est": 125.39, 
+    "state": "WA", 
+    "EPS": 2.428, 
+    "beta": 1.105024, 
+    "Total_Debt": 87927996416, 
+    "Total_Cash": 135770996736, 
+    "Earnings_Date": "2019-01-30", 
+    "Current_Price": 106.12, 
+    "Free_Cash_Flow": 29277249536, 
+    "ticker": "MSFT", 
+    "Gross_Profits": 72007000000
+}

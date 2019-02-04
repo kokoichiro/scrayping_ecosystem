@@ -1,0 +1,20 @@
+{
+    "": "181.57", 
+    "sector": "Technology", 
+    "Date_Time": "2019-01-18 13:37:07.793225", 
+    "Operating_Margin": 0.26694, 
+    "url": "http://finance.yahoo.com/quote/AAPL?p=AAPL", 
+    "ROA": 0.11959, 
+    "industry": "Consumer Electronics", 
+    "target_est": 181.57, 
+    "state": "CA", 
+    "EPS": 11.91, 
+    "beta": 1.114892, 
+    "Total_Debt": 114483003392, 
+    "Total_Cash": 66301001728, 
+    "Earnings_Date": "2019-01-29", 
+    "Current_Price": 155.86, 
+    "Free_Cash_Flow": 48419250176, 
+    "ticker": "AAPL", 
+    "Gross_Profits": 101839000000
+}

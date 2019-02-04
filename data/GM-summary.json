@@ -1,0 +1,20 @@
+{
+    "": "45.45", 
+    "sector": "Consumer Cyclical", 
+    "Date_Time": "2019-01-18 13:44:34.163631", 
+    "Operating_Margin": 0.0574, 
+    "url": "http://finance.yahoo.com/quote/GM?p=GM", 
+    "ROA": 0.02307, 
+    "industry": "Auto Manufacturers", 
+    "target_est": 45.45, 
+    "state": "MI", 
+    "EPS": 0.522, 
+    "beta": 0.98603, 
+    "Total_Debt": 103520002048, 
+    "Total_Cash": 19850999808, 
+    "Earnings_Date": "2019-02-06", 
+    "Current_Price": 38.26, 
+    "Free_Cash_Flow": -3123749888, 
+    "ticker": "GM", 
+    "Gross_Profits": 20164000000
+}

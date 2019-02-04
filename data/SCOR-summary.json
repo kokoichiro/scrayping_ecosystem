@@ -1,0 +1,20 @@
+{
+    "": "25.75", 
+    "sector": "Industrials", 
+    "Date_Time": "2019-01-18 13:36:05.761744", 
+    "Operating_Margin": -0.42663, 
+    "url": "http://finance.yahoo.com/quote/SCOR?p=SCOR", 
+    "ROA": -0.10943, 
+    "industry": "Business Services", 
+    "target_est": 25.75, 
+    "state": "VA", 
+    "EPS": -3.575, 
+    "beta": -0.210521, 
+    "Total_Debt": 193950000, 
+    "Total_Cash": 47876000, 
+    "Earnings_Date": "2019-03-21 to 2019-03-25", 
+    "Current_Price": 17.0, 
+    "Free_Cash_Flow": 64473500, 
+    "ticker": "SCOR", 
+    "Gross_Profits": 209944000
+}

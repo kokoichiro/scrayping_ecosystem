@@ -1,0 +1,20 @@
+{
+    "": "34.36", 
+    "sector": "Communication Services", 
+    "Date_Time": "2019-01-18 13:40:22.320710", 
+    "Operating_Margin": 0.16765, 
+    "url": "http://finance.yahoo.com/quote/T?p=T", 
+    "ROA": 0.03521, 
+    "industry": "Telecom Services", 
+    "target_est": 34.36, 
+    "state": "TX", 
+    "EPS": 5.15, 
+    "beta": 0.605653, 
+    "Total_Debt": 185121996800, 
+    "Total_Cash": 8700999680, 
+    "Earnings_Date": "2019-01-30", 
+    "Current_Price": 30.64, 
+    "Free_Cash_Flow": 13211124736, 
+    "ticker": "T", 
+    "Gross_Profits": 83167000000
+}
