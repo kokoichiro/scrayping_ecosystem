@@ -1,0 +1,20 @@
+{
+    "": "161.00", 
+    "sector": "Financial Services", 
+    "Date_Time": "2019-03-15 00:23:46.996072", 
+    "Operating_Margin": 0.65675, 
+    "url": "http://finance.yahoo.com/quote/V?p=V", 
+    "ROA": 0.12569, 
+    "industry": "Credit Services", 
+    "target_est": 161.0, 
+    "state": "CA", 
+    "EPS": 4.649, 
+    "beta": 0.853437, 
+    "Total_Debt": 16632999936, 
+    "Total_Cash": 11749999616, 
+    "Earnings_Date": "2019-04-23 to 2019-04-29", 
+    "Current_Price": 154.2, 
+    "Free_Cash_Flow": 11003875328, 
+    "ticker": "V", 
+    "Gross_Profits": 19923000000
+}

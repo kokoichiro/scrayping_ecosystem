@@ -1,9 +1,9 @@
 {
     "": "329.28", 
     "sector": "Consumer Cyclical", 
-    "Date_Time": "2019-03-15 00:11:16.174617", 
+    "Date_Time": "2019-03-15 00:01:00.362983", 
     "Operating_Margin": -0.011779999, 
-    "url": "http://finance.yahoo.com/quote/tsla?p=tsla", 
+    "url": "http://finance.yahoo.com/quote/TSLA?p=TSLA", 
     "ROA": -0.00541, 
     "industry": "Auto Manufacturers", 
     "target_est": 329.28, 
@@ -15,6 +15,6 @@
     "Earnings_Date": "2019-04-30 to 2019-05-06", 
     "Current_Price": 289.96, 
     "Free_Cash_Flow": -923316352, 
-    "ticker": "tsla", 
+    "ticker": "TSLA", 
     "Gross_Profits": 4042021000
 }
